@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🧠 SKILLS & HACKING STACK
 
-<!--
-**dcl7k/dcl7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web / Frontend
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-6A0DAD?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Hacking & Segurança da Informação
+
+### 🛡️ Defensiva
+- OPSEC  
+- Hardening de Sistemas  
+- Monitoramento e Logging  
+- Segurança em Linux  
+
+### ⚔️ Ofensivo
+- Pentest  
+- Reconhecimento  
+- Exploitation  
