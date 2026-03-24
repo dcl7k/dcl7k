@@ -55,11 +55,6 @@ Busco evoluir constantemente minhas habilidades em cybersecurity, combinando pr�
 
 ---
 
-## ☠️ FRASE
-> "Não é sobre invadir, é sobre entender o sistema."
-
----
-
 ## 🚀 CONTATO
 📡 Discord: dcl7k  
 🌐 GitHub: https://github.com/dcl7k
