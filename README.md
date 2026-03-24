@@ -1,17 +1,15 @@
-<h1 align="center">💀 dcl7k | Cyber Security</h1>
+<h1 align="center">dcl7k | Cyber Security</h1>
 
 <p align="center">
-🧠 Hacker | 🔐 Pentester | 🐉 Kali Linux User
+ Pentester | Kali Linux User
 </p>
 
 ---
 
-## ⚡ SOBRE MIM
-💻 Usuário avançado de Kali Linux  
-🔎 Focado em Cyber Security & Pentest  
-🧠 Sempre aprendendo novas técnicas  
-🔥 Mentalidade hacker  
+## SOBRE DCL7K
+ Sou um entusiasta de segurança da informação com foco em ambientes Linux, especialmente Kali Linux.Tenho interesse em análise de sistemas, exploração de vulnerabilidades e fortalecimento de infraestrutura.
 
+Busco evoluir constantemente minhas habilidades em cybersecurity, combinando prática, estudo e curiosidade técnica.
 ---
 
 ## 🧠 SKILLS & HACKING STACK
