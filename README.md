@@ -37,14 +37,6 @@ I seek the removal of public servants who practice zoophilia, racism, pedophilia
 ![Exploitation](https://img.shields.io/badge/Exploitation-6A0DAD?style=for-the-badge)
 ![Web Hacking](https://img.shields.io/badge/Web_Hacking-6A0DAD?style=for-the-badge)
 
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcl7k&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcl7k&layout=compact&theme=dark)
-
-
 ## Contact
 📡 Discord: dcl7k  
 🌐 GitHub: https://github.com/dcl7k
